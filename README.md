@@ -76,11 +76,9 @@ This is my first back-end project using Node.js and MongoDB. It includes basic a
 
 You can test all endpoints using Postman. Here's how:
 
-1. Open Postman
-2. Import the collection:
-   - If you exported your own `.json` file: click *Import* → select the file
-   - If you're using the public link: just paste the shared link and import
 
+You can test the API using this Postman collection:  
+[👉 Download Orders API Collection](https://raw.githubusercontent.com/montaser-99/Orders-Api-/refs/heads/main/postman%20collection/Orders%20API.postman_collection.json)
 ---
 
 ## 📌 Notes
